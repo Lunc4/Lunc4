@@ -1,8 +1,7 @@
 	\_ whoami : Lunc4
  	 |_ ctf player
  	 \_ I’m currently studying ict @ ZUYD      
- 	 \_ Interested in Cyber Security
- 	    Questions or are you intressted in collaborating on project?
+ 	 \_ Highly invested in Info Security
 
---!> Reach out to me on my gmail : l.van.noorbeek@gmail.com
+
 ____________________________________________________________________
