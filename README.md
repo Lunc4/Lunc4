@@ -1,7 +1,7 @@
 	\_ whoami : Lunc4
  	 |_ ctf player
- 	 \_ I’m currently studying ict @ ZUYD      
- 	 \_ Highly invested in Info Security
+ 	 \_ Comp sci student @ Radboud      
+ 	 \_ Highly invested in computering :D
 
 
 ____________________________________________________________________
